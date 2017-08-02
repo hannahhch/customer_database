@@ -34,7 +34,8 @@ let boxFirst = `
   <img src = ${image1}>
   <h3>${fullName}</h3>
   <h5>${emailContent}</h5>
-  <p>${formatedAddress}${phoneNumber}</p>
+  <p>${formatedAddress}</p>
+  <p>${phoneNumber}</p>
   <h4 class = 'blurry'>${socialSecurity}</h4>
 </div>
 `
@@ -44,7 +45,8 @@ let boxSecond = `
   <img src = ${image2}>
   <h3>${fullName}</h3>
   <h5>${emailContent}</h5>
-  <p>${formatedAddress}${phoneNumber}</p>
+  <p>${formatedAddress}</p>
+  <p>${phoneNumber}</p>
   <h4 class = 'blurry'>${socialSecurity}</h4>
 </div>
 `
@@ -54,7 +56,8 @@ let boxThird = `
   <img src = ${image3}>
   <h3>${fullName}</h3>
   <h5>${emailContent}</h5>
-  <p>${formatedAddress}${phoneNumber}</p>
+  <p>${formatedAddress}</p>
+  <p>${phoneNumber}</p>
   <h4 class = 'blurry'>${socialSecurity}</h4>
 </div>
 `
@@ -64,7 +67,8 @@ let boxFourth = `
   <img src = ${image4}>
   <h3>${fullName}</h3>
   <h5>${emailContent}</h5>
-  <p>${formatedAddress}${phoneNumber}</p>
+  <p>${formatedAddress}</p>
+  <p>${phoneNumber}</p>
   <h4 class = 'blurry'>${socialSecurity}</h4>
 </div>
 `
