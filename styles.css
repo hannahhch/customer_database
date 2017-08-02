@@ -1,6 +1,6 @@
 #container {
-  width: 80%;
-  margin:0 10%;
+  width: 90%;
+  margin:0 5%;
   height: 700px;
 
 }
@@ -52,7 +52,14 @@ p {
 }
 
 h4 {
-  color: #5DBC8A;
   font-family: 'Poppins', sans-serif;
   font-weight: bold;
+  color: transparent;
+  text-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
+
+h4:hover{
+  color: #5DBC8A;
+  text-shadow: none;
+
 }
